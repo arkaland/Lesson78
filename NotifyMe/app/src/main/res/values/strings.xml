@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="notifyme">Notify Me!</string>
+    <string name="update_me">Update Me!</string>
+    <string name="cancel_me">Cancel Me!</string>
+    <string name="update">yupdate</string>
+    <string name="notification_channel_name">namez</string>
+    <string name="notification_channel_description">descrition</string>
+    <string name="notification_title">titulo</string>
+    <string name="notification_text">texto</string>
+    <string name="notification_updated">updateez</string>
+</resources>
